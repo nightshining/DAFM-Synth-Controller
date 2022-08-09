@@ -4,7 +4,7 @@ MIDI controller software for controller Kasser synth DAFM
 
 * Software using Max MSP for controlling the [Kasser Synth]("https://hackaday.io/kassersynths") DAFM 
 
-[https://hackaday.io/kassersynths](url)
+[https://hackaday.io/kassersynths]
 
 
 <img src="https://github.com/nightshining/DAFM-Synth-Controller/blob/main/DFMA_Controller.png" width="600" height="450" />
